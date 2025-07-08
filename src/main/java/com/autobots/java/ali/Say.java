@@ -1,4 +1,4 @@
 package com.autobots.java.ali;
 
-public class Bye {
+public class Say {
 }
