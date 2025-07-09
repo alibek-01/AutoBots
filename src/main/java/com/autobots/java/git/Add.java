@@ -6,3 +6,5 @@ public class Add {
         System.out.println("Hi");
     }
 }
+// Hi
+// HEllo
