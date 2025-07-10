@@ -1,9 +1,7 @@
-import java.util.*;
-import java.util.stream.Collectors;
 
 public class Draft {
     public static void main(String[] args) {
-
+        System.out.println("Hi");
 
     }
     int max = 0;
